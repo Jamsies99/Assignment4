@@ -5,3 +5,7 @@ the player is the spot where the number is
 the number represents how many mines are near you
 you can move one space by clicking a spot within the proximity of your player (like a king in chess)
 you can backtrack to retrace steps and piece together the map
+
+Created in p5.js
+
+Project will only work on a local web server, issue with gitpage deployment.
