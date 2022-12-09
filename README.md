@@ -8,4 +8,6 @@ you can backtrack to retrace steps and piece together the map
 
 Created in p5.js
 
+Utilizes class mines and a 2d grid to randomly create a minefield, with a class player to hold the position of the player in the field.  
+
 Project will only work on a local web server, issue with gitpage deployment.
